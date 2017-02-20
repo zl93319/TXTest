@@ -1,0 +1,14 @@
+<tabs>
+    <tab
+        id="@id/conversations"
+        icon="@mipmap/ic_conversation_selected_2"
+        title="@string/conversations"/>
+    <tab
+        id="@id/contacts"
+        icon="@mipmap/ic_contact_selected_2"
+        title="@string/contacts"/>
+    <tab
+        id="@id/dynamic"
+        icon="@mipmap/ic_plugin_selected_2"
+        title="@string/dynamic"/>
+</tabs>
